@@ -1,2 +1,2 @@
 This is first test - innie
-This is first edition in feature1
+This is edition from feat2
